@@ -49,7 +49,7 @@ export function Header() {
               href="/"
               className="flex items-center space-x-2 text-xl font-bold text-foreground hover:text-primary transition-colors"
             >
-              <span>Gavin's Blog</span>
+              <span>Gavin&apos;s Blog</span>
             </Link>
           </div>
 
